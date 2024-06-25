@@ -1,0 +1,7 @@
+{
+    "coc.preferences.formatOnType":true,
+    "diagnostic.enableHighlightLineNumber": true,
+    "codeLens.enable": true,
+    "signature.enable": true,
+    "diagnostic.checkCurrentLine": true
+}
