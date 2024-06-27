@@ -2,6 +2,7 @@
 
 ## Dependencies
 node >= 16.18.0
+Nerd font, i use ZedMono Nerd Font
 
 ### debian/ubuntu
 ```bash
