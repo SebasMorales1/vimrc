@@ -14,5 +14,6 @@ call plug#begin()
    Plug 'ryanoasis/vim-devicons'
    Plug 'itchyny/lightline.vim'
    Plug 'tpope/vim-fugitive'
+   Plug 'Yggdroot/indentLine'
 
 call plug#end()
