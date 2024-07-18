@@ -5,8 +5,8 @@ set relativenumber
 syntax on
 set termguicolors
 
-set tabstop=4
-set shiftwidth=4
+"set tabstop=4
+"set shiftwidth=4
 set expandtab
 set breakindent
 
